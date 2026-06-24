@@ -1,0 +1,1 @@
+Calcula rankings, porcentajes de ejecución, gasto por sector, región y periodo.
