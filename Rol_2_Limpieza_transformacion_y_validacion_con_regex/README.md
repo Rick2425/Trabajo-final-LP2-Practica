@@ -1,0 +1,1 @@
+Limpia columnas, convierte montos, trata valores vacíos y usa expresiones regulares.
