@@ -1,0 +1,1 @@
+Une todo en main.py, organiza el repositorio, README, requirements.txt y exposición.
