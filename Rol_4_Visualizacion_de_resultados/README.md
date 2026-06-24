@@ -1,0 +1,1 @@
+Genera mínimo tres gráficos e interpreta los resultados.
