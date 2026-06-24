@@ -1,0 +1,1 @@
+Se encarga de conectar con la API usando requests, descargar los datos y guardar el CSV crudo.
