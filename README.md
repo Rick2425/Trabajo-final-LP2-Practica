@@ -14,6 +14,8 @@
 
 <ul>
   <li>Cardenas Panduro, Ricardo Gabriel (Rick2425) (20241376) </li>
+  <li></li>
+  <li></li>
 </ul>
 
 <h2>Objetivos del proyecto</h2>
