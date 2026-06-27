@@ -14,7 +14,6 @@
 
 <ul>
   <li>Cardenas Panduro, Ricardo Gabriel (Rick2425) (20241376) </li>
-  <li>Quispe Garcia Francisco Alberto (panchop35) (20240729)</li>
 </ul>
 
 <h2>Objetivos del proyecto</h2>
