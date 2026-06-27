@@ -1,5 +1,5 @@
 # ============================================================
-# ROL 2 - LIMPIEZA Y NORMALIZACIÓN DE DATOS MEF
+# LIMPIEZA Y NORMALIZACIÓN DE DATOS MEF
 # Entrada : data/raw/gasto_publico_raw_2024.csv
 # Salida  : data/processed/gasto_publico_limpio.csv
 # ============================================================
