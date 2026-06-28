@@ -15,7 +15,7 @@
 <ul>
   <li>Cardenas Panduro, Ricardo Gabriel (Rick2425) (20241376) </li>
   <li>Almonacid Quispe, Jimmy Salomón (patatita1theoriginal) (20241374)</li>
-  <li></li>
+  <li>Tuppia Paitan, Joaquin Francisco</li>
 </ul>
 
 <h2>Objetivos del proyecto</h2>
