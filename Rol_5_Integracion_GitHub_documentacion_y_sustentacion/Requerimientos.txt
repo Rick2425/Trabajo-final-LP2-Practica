@@ -1,0 +1,8 @@
+- requests
+- pandas
+- numpy
+- matplotlib
+- notebook
+- jupyter
+- ipykernel
+
